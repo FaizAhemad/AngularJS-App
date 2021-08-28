@@ -1,5 +1,8 @@
 # ![Angular 1.5+ ES6 & Component API Example App](project-logo.png)
 
+
+USe Node v 10.0.0 otherwise it will throw an error primodels not defined
+
 > Example Angular 1.5+ (ES6 + Components) codebase that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) spec and API.
 
 View the **[demo application](https://angularjs.realworld.io)** or **[learn how to build the application from scratch](https://thinkster.io/angularjs-es6-tutorial)**!
