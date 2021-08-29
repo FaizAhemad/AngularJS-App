@@ -19,7 +19,7 @@ var interceptErrors = function(error) {
 
   // Send error to notification center with gulp-notify
   notify.onError({
-    title: 'Compile Error',
+    title: 'Compile Errr',
     message: '<%= error.message %>'
   }).apply(this, args);
 
